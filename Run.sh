@@ -1,0 +1,2 @@
+cd /Users/dhamodharansakthivel/SeleniumAutomation/consumerPayments
+mvn clean install

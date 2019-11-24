@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">ConsumerPayment</th></tr>
+<tr><td><a href="#t0">ConsumerPayment Test</a></td><td class="num">1</td><td class="num">0</td><td class="num attn">3</td><td class="num">238,077</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">ConsumerPayment</th></tr></tbody><tbody id="t0"><tr><th colspan="4">ConsumerPayment Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.consumerPayments.testCases.TC003_AccountSearch_CreditCard_Visa_Pay</td><td><a href="#m0">CreditCard_Visa_Pay</a></td><td rowspan="1">1574186702004</td><td rowspan="1">23500</td></tr><tr class="failedodd"><td rowspan="1">com.consumerPayments.testCases.TC004_AccountSearch_CreditCard_MasterCard_Pay</td><td><a href="#m1">MasterCard_Visa_Pay</a></td><td rowspan="1">1574186744194</td><td rowspan="1">66779</td></tr><tr class="failedeven"><td rowspan="1">com.consumerPayments.testCases.TC005_AccountSearch_CreditCard_Discover_Pay</td><td><a href="#m2">DiscoverCard_Pay</a></td><td rowspan="1">1574186824391</td><td rowspan="1">25625</td></tr><tr><th colspan="4">ConsumerPayment Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.consumerPayments.testCases.TC006_AccountSearch_CreditCard_AmericanExpress_Pay</td><td><a href="#m3">AMEXCard_Pay</a></td><td rowspan="1">1574186860952</td><td rowspan="1">68188</td></tr></tbody>
+</table>
+<h2>ConsumerPayment Test</h2><h3 id="m0">com.consumerPayments.testCases.TC003_AccountSearch_CreditCard_Visa_Pay#CreditCard_Visa_Pay</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;input type=&quot;button&quot; class=&quot;btn btn-secondary btn-action&quot; onclick=&quot;SubmitValidatedForm(&apos;electronicPayment&apos;);&quot; value=&quot;Electronic Payment&quot;&gt; is not clickable at point (1429, 452). Other element would receive the click: &lt;div id=&quot;maskMessage&quot; style=&quot;position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; display: block; background-color: black; opacity: 0.75;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=78.0.3904.97)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Dhamodharans-iMac.local&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.5&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: /var/folders/jn/qgh107891cx...}, goog:chromeOptions: {debuggerAddress: localhost:52153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8d7d8518ff1bddb803047ca1efe68726
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.consumerPayments.pageObjects.AcceptPayment.electronicPaymentButtonClick(AcceptPayment.java:91)
+	at com.consumerPayments.testCases.TC003_AccountSearch_CreditCard_Visa_Pay.CreditCard_Visa_Pay(TC003_AccountSearch_CreditCard_Visa_Pay.java:49)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.consumerPayments.testCases.TC004_AccountSearch_CreditCard_MasterCard_Pay#MasterCard_Visa_Pay</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;cardtype&quot;]&quot;}
+  (Session info: chrome=78.0.3904.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Dhamodharans-iMac.local&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.5&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: /var/folders/jn/qgh107891cx...}, goog:chromeOptions: {debuggerAddress: localhost:52182}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 74eb0521f194bd69bf06bceac2cfd866
+*** Element info: {Using=xpath, value=//*[@id=&quot;cardtype&quot;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:45)
+	at com.consumerPayments.pageObjects.ElectronicPayment.SelectMasterCard(ElectronicPayment.java:74)
+	at com.consumerPayments.testCases.TC004_AccountSearch_CreditCard_MasterCard_Pay.MasterCard_Visa_Pay(TC004_AccountSearch_CreditCard_MasterCard_Pay.java:60)
+... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.consumerPayments.testCases.TC005_AccountSearch_CreditCard_Discover_Pay#DiscoverCard_Pay</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;input type=&quot;button&quot; class=&quot;btn btn-secondary btn-action&quot; onclick=&quot;SubmitValidatedForm(&apos;electronicPayment&apos;);&quot; value=&quot;Electronic Payment&quot;&gt; is not clickable at point (1005, 452). Other element would receive the click: &lt;div id=&quot;maskMessage&quot; style=&quot;position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; display: block; background-color: black; opacity: 0.75;&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=78.0.3904.97)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Dhamodharans-iMac.local&apos;, ip: &apos;192.168.1.5&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.5&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: /var/folders/jn/qgh107891cx...}, goog:chromeOptions: {debuggerAddress: localhost:52231}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 307c1bd65cab04758dbf1a1e291436ca
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy10.click(Unknown Source)
+	at com.consumerPayments.pageObjects.AcceptPayment.electronicPaymentButtonClick(AcceptPayment.java:91)
+	at com.consumerPayments.testCases.TC005_AccountSearch_CreditCard_Discover_Pay.DiscoverCard_Pay(TC005_AccountSearch_CreditCard_Discover_Pay.java:52)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.consumerPayments.testCases.TC006_AccountSearch_CreditCard_AmericanExpress_Pay#AMEXCard_Pay</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

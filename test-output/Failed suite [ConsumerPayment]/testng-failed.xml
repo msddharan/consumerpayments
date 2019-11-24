@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [ConsumerPayment]]">
+  <listeners>
+    <listener class-name="com.consumerPayments.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="ConsumerPayment Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.consumerPayments.testCases.TC003_AccountSearch_CreditCard_Visa_Pay">
+        <methods>
+          <include name="CreditCard_Visa_Pay"/>
+          <include name="Setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.consumerPayments.testCases.TC003_AccountSearch_CreditCard_Visa_Pay -->
+    </classes>
+  </test> <!-- ConsumerPayment Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [ConsumerPayment]] -->

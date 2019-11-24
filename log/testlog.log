@@ -1,0 +1,1071 @@
+2019-11-18 02:10:38,500 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:10:38,630 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:10:38,695 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:10:44,472 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:10:47,478 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:10:48,830 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:10:48,911 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:10:50,788 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:10:50,833 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:10:56,049 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:10:58,299 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:11:06,543 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:13:08,648 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:13:08,757 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:13:08,823 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:13:14,306 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:13:17,311 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:13:18,733 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:13:18,813 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:13:20,388 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:13:20,450 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:13:26,115 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:13:28,380 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:13:36,356 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:15:15,188 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:15:15,294 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:15:15,360 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:15:20,552 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:15:23,563 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:15:24,903 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:15:24,976 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:15:26,688 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:15:26,736 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:15:32,708 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:15:34,963 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:16:10,226 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:16:17,394 - consumerPayments -INFO - Card Number is entered
+2019-11-18 02:16:17,532 - consumerPayments -INFO - Expiration Year is selected
+2019-11-18 02:16:17,595 - consumerPayments -INFO - CVV Value is entered
+2019-11-18 02:16:17,732 - consumerPayments -INFO - Address Line2 is entered
+2019-11-18 02:16:17,831 - consumerPayments -INFO - Phone Number is entered
+2019-11-18 02:16:24,296 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-18 02:16:27,362 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-18 02:16:27,363 - consumerPayments -INFO - End of Payment Scenario
+2019-11-18 02:24:07,973 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:24:08,095 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:24:08,166 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:24:14,274 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:24:17,285 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:24:18,717 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:24:18,801 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:24:20,615 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:24:20,662 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:24:26,299 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:24:28,550 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:24:53,640 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:25:00,784 - consumerPayments -INFO - Card Number is entered
+2019-11-18 02:25:00,932 - consumerPayments -INFO - Expiration Year is selected
+2019-11-18 02:25:00,992 - consumerPayments -INFO - CVV Value is entered
+2019-11-18 02:25:01,132 - consumerPayments -INFO - Address Line2 is entered
+2019-11-18 02:25:01,234 - consumerPayments -INFO - Phone Number is entered
+2019-11-18 02:25:12,308 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-18 02:25:15,372 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-18 02:25:15,372 - consumerPayments -INFO - End of Payment Scenario
+2019-11-18 02:25:37,060 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:25:37,150 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:25:37,223 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:25:41,534 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:25:44,535 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:25:45,962 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:25:46,035 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:25:48,008 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:25:48,061 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:25:54,049 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:25:56,119 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:26:15,997 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:26:23,126 - consumerPayments -INFO - Card Number is entered
+2019-11-18 02:26:23,258 - consumerPayments -INFO - Expiration Year is selected
+2019-11-18 02:26:23,316 - consumerPayments -INFO - CVV Value is entered
+2019-11-18 02:26:23,455 - consumerPayments -INFO - Address Line2 is entered
+2019-11-18 02:26:23,551 - consumerPayments -INFO - Phone Number is entered
+2019-11-18 02:26:28,617 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-18 02:39:26,203 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:39:26,325 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:39:26,391 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:39:32,450 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:39:35,460 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:39:36,946 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:39:37,020 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:39:38,818 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:39:38,880 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:39:42,693 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:39:44,356 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:39:50,459 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:40:25,286 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:40:25,392 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:40:25,463 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:40:30,999 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:40:34,004 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:40:35,428 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:40:35,506 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:40:37,467 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:40:37,522 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:40:43,210 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:40:45,295 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:41:03,264 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:41:19,881 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:41:19,969 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:41:20,033 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:41:26,462 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:41:29,463 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:41:30,814 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:41:30,901 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:41:32,602 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:41:32,647 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:41:33,232 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:41:35,803 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:43:27,355 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:43:27,451 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:43:27,507 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:43:38,508 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:43:41,510 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:43:51,858 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:43:51,913 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:43:57,114 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:44:06,568 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:44:06,654 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:44:06,718 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:44:11,754 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:44:14,758 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:44:16,192 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:44:16,268 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:44:17,937 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:44:17,982 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:44:20,908 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:44:22,999 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:44:37,220 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:44:54,544 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:44:54,622 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:44:54,677 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:44:59,744 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:45:02,750 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:55:43,697 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:55:43,910 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:55:43,973 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:55:49,549 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:55:52,560 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:55:54,054 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:55:54,132 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:55:56,003 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:55:56,057 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:56:03,060 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:56:04,713 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:56:14,745 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:56:14,828 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:56:14,890 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:56:19,140 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:56:22,145 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:56:23,646 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:56:23,733 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:56:25,418 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:56:25,476 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:56:31,221 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:56:33,316 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:57:10,908 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:57:25,726 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:57:25,818 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:57:25,884 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:57:30,570 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:57:33,571 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:57:35,019 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:57:35,096 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:57:37,321 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:57:37,364 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 02:57:43,634 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 02:57:45,723 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 02:58:22,446 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 02:58:37,211 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:59:48,258 - consumerPayments -INFO - URL is Entered
+2019-11-18 02:59:48,364 - consumerPayments -INFO - Username is Entered
+2019-11-18 02:59:48,429 - consumerPayments -INFO - Password is Entered
+2019-11-18 02:59:53,187 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 02:59:56,196 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 02:59:57,562 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 02:59:57,644 - consumerPayments -INFO - Search Data is entered
+2019-11-18 02:59:59,607 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 02:59:59,664 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 03:00:04,424 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 03:00:06,064 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 03:00:13,228 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 14:27:18,150 - consumerPayments -INFO - URL is Entered
+2019-11-18 14:27:18,424 - consumerPayments -INFO - Username is Entered
+2019-11-18 14:27:18,505 - consumerPayments -INFO - Password is Entered
+2019-11-18 14:27:25,988 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 14:27:28,998 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 14:27:30,503 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 14:27:30,611 - consumerPayments -INFO - Search Data is entered
+2019-11-18 14:27:37,164 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 14:27:37,234 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 14:27:42,497 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 14:27:44,142 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 14:32:47,814 - consumerPayments -INFO - URL is Entered
+2019-11-18 14:32:48,106 - consumerPayments -INFO - Username is Entered
+2019-11-18 14:32:48,183 - consumerPayments -INFO - Password is Entered
+2019-11-18 14:32:54,413 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 14:32:57,426 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 14:32:59,123 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 14:32:59,202 - consumerPayments -INFO - Search Data is entered
+2019-11-18 14:33:04,015 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 14:33:04,088 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 14:33:07,364 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 14:33:09,012 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 14:33:17,142 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 14:34:48,503 - consumerPayments -INFO - URL is Entered
+2019-11-18 14:34:48,660 - consumerPayments -INFO - Username is Entered
+2019-11-18 14:34:48,726 - consumerPayments -INFO - Password is Entered
+2019-11-18 14:34:51,874 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 14:34:54,882 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 14:34:56,372 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 14:34:56,452 - consumerPayments -INFO - Search Data is entered
+2019-11-18 14:34:58,118 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 14:34:58,164 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 14:35:02,615 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 14:35:04,256 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 22:48:50,648 - consumerPayments -INFO - URL is Entered
+2019-11-18 22:48:50,988 - consumerPayments -INFO - Username is Entered
+2019-11-18 22:48:51,055 - consumerPayments -INFO - Password is Entered
+2019-11-18 22:48:56,628 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 22:48:59,654 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 22:49:01,069 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 22:49:01,174 - consumerPayments -INFO - Search Data is entered
+2019-11-18 22:49:06,583 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 22:49:06,636 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 22:49:15,295 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 22:49:16,952 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 22:49:23,984 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 22:50:52,762 - consumerPayments -INFO - URL is Entered
+2019-11-18 22:50:52,876 - consumerPayments -INFO - Username is Entered
+2019-11-18 22:50:52,950 - consumerPayments -INFO - Password is Entered
+2019-11-18 22:50:59,126 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 22:51:02,130 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 22:51:03,728 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 22:51:03,812 - consumerPayments -INFO - Search Data is entered
+2019-11-18 22:51:06,516 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 22:51:06,563 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 22:51:19,192 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 22:51:20,847 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 22:51:29,119 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 22:51:39,277 - consumerPayments -INFO - Card Number is entered
+2019-11-18 22:51:39,500 - consumerPayments -INFO - Expiration Year is selected
+2019-11-18 22:51:39,564 - consumerPayments -INFO - CVV Value is entered
+2019-11-18 22:51:39,719 - consumerPayments -INFO - Address Line2 is entered
+2019-11-18 22:51:39,814 - consumerPayments -INFO - Phone Number is entered
+2019-11-18 22:51:45,424 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-18 22:51:48,505 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-18 22:51:48,505 - consumerPayments -INFO - End of Payment Scenario
+2019-11-18 22:54:20,431 - consumerPayments -INFO - URL is Entered
+2019-11-18 22:54:20,557 - consumerPayments -INFO - Username is Entered
+2019-11-18 22:54:20,624 - consumerPayments -INFO - Password is Entered
+2019-11-18 22:54:26,422 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 22:54:29,458 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 22:54:30,810 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 22:54:30,896 - consumerPayments -INFO - Search Data is entered
+2019-11-18 22:54:32,659 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 22:54:32,710 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 22:54:37,668 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 22:54:39,931 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 22:55:19,493 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 23:02:30,221 - consumerPayments -INFO - URL is Entered
+2019-11-18 23:02:30,462 - consumerPayments -INFO - Username is Entered
+2019-11-18 23:02:30,525 - consumerPayments -INFO - Password is Entered
+2019-11-18 23:02:34,174 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 23:02:37,183 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 23:02:38,744 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 23:02:38,834 - consumerPayments -INFO - Search Data is entered
+2019-11-18 23:02:40,698 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 23:02:40,743 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 23:02:45,713 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 23:02:47,830 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 23:04:03,364 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 23:05:27,622 - consumerPayments -INFO - URL is Entered
+2019-11-18 23:05:27,733 - consumerPayments -INFO - Username is Entered
+2019-11-18 23:05:27,804 - consumerPayments -INFO - Password is Entered
+2019-11-18 23:05:32,498 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 23:05:35,507 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 23:05:36,968 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 23:05:37,061 - consumerPayments -INFO - Search Data is entered
+2019-11-18 23:05:39,009 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 23:05:39,058 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 23:05:44,841 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 23:05:46,920 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 23:06:49,860 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 23:09:51,696 - consumerPayments -INFO - URL is Entered
+2019-11-18 23:09:51,805 - consumerPayments -INFO - Username is Entered
+2019-11-18 23:09:51,874 - consumerPayments -INFO - Password is Entered
+2019-11-18 23:09:58,074 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 23:10:01,078 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 23:10:02,973 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 23:10:03,052 - consumerPayments -INFO - Search Data is entered
+2019-11-18 23:10:05,606 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 23:10:05,654 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 23:10:11,507 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 23:10:13,617 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 23:10:38,798 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-18 23:11:43,733 - consumerPayments -INFO - URL is Entered
+2019-11-18 23:11:43,888 - consumerPayments -INFO - Username is Entered
+2019-11-18 23:11:43,958 - consumerPayments -INFO - Password is Entered
+2019-11-18 23:11:48,506 - consumerPayments -INFO - Login is Sucessful
+2019-11-18 23:11:51,508 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-18 23:11:53,595 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-18 23:11:53,682 - consumerPayments -INFO - Search Data is entered
+2019-11-18 23:11:55,423 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-18 23:11:55,485 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-18 23:12:02,376 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-18 23:12:04,637 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-18 23:12:34,757 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:28:46,420 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:28:46,713 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:28:46,775 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:28:55,451 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:28:58,462 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:29:00,017 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:29:00,098 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:29:03,517 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:29:03,575 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:29:10,459 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:29:12,741 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:30:23,849 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:31:26,668 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:31:26,785 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:31:26,867 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:31:32,102 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:31:35,108 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:31:36,563 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:31:36,641 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:31:38,379 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:31:38,426 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:31:42,327 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:31:44,598 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:32:05,752 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:38:49,042 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:38:49,193 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:38:49,261 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:38:54,653 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:38:57,661 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:38:59,141 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:38:59,232 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:39:01,018 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:39:01,104 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:39:05,725 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:39:07,832 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:39:34,076 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:39:41,100 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 14:41:55,212 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:41:55,322 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:41:55,392 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:42:00,996 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:42:04,003 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:42:05,437 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:42:05,515 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:42:07,286 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:42:07,335 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:42:13,485 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:42:15,576 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:42:32,383 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:42:39,397 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 14:45:06,392 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:45:06,501 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:45:06,566 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:45:10,450 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:45:13,456 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:45:14,982 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:45:15,068 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:45:16,729 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:45:16,776 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:45:21,948 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:45:24,050 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:46:00,174 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:46:07,212 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 14:46:07,339 - consumerPayments -INFO - Card Number is entered
+2019-11-19 14:46:07,484 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 14:46:07,550 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 14:46:07,685 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 14:46:07,784 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 14:47:36,415 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:47:36,527 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:47:36,588 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:47:43,071 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:47:46,082 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:47:47,560 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:47:47,642 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:47:49,335 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:47:49,386 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:47:56,876 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:47:58,972 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:48:16,568 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:48:23,595 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 14:48:23,724 - consumerPayments -INFO - Card Number is entered
+2019-11-19 14:48:23,869 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 14:48:24,350 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 14:48:24,480 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 14:48:24,572 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 14:54:06,963 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:54:07,102 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:54:07,166 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:54:11,639 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:54:14,650 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:54:16,063 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:54:16,146 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:54:18,085 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:54:18,133 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:54:24,462 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:54:26,562 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:54:46,538 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:54:53,558 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 14:54:53,794 - consumerPayments -INFO - Card Number is entered
+2019-11-19 14:54:53,928 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 14:54:54,446 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 14:54:54,583 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 14:54:54,680 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 14:55:07,306 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 14:55:10,424 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 14:55:10,424 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 14:56:18,342 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:56:18,453 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:56:18,522 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:56:23,102 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:56:26,107 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:56:27,451 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:56:27,529 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:56:29,543 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:56:29,591 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:56:35,530 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:56:37,184 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:56:44,749 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:57:05,030 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:57:05,117 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:57:05,183 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:57:10,394 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:57:13,399 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:57:15,022 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:57:15,100 - consumerPayments -INFO - Search Data is entered
+2019-11-19 14:57:16,736 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 14:57:16,795 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 14:57:21,416 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 14:57:23,482 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 14:57:41,080 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 14:57:51,899 - consumerPayments -INFO - Card Number is entered
+2019-11-19 14:57:52,026 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 14:57:52,088 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 14:57:52,223 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 14:57:52,320 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 14:57:58,064 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 14:58:12,993 - consumerPayments -INFO - URL is Entered
+2019-11-19 14:58:13,079 - consumerPayments -INFO - Username is Entered
+2019-11-19 14:58:13,139 - consumerPayments -INFO - Password is Entered
+2019-11-19 14:58:19,646 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 14:58:22,651 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 14:58:24,186 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 14:58:24,256 - consumerPayments -INFO - Search Data is entered
+2019-11-19 15:28:30,812 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 15:28:31,087 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 15:28:38,218 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 15:28:40,340 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 15:29:34,867 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 15:29:42,144 - consumerPayments -INFO - Card Number is entered
+2019-11-19 15:29:42,273 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 15:29:42,333 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 15:29:42,459 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 15:29:42,551 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 15:29:49,835 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 15:29:52,894 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 15:29:52,894 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 20:28:16,913 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:28:17,163 - consumerPayments -INFO - Username is Entered
+2019-11-19 20:28:17,232 - consumerPayments -INFO - Password is Entered
+2019-11-19 20:28:24,065 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 20:28:27,094 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 20:28:28,652 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 20:28:28,735 - consumerPayments -INFO - Search Data is entered
+2019-11-19 20:28:35,505 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 20:28:35,553 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 20:28:43,686 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 20:28:45,335 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 20:29:34,896 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 20:29:52,811 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:31:39,310 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:31:39,485 - consumerPayments -INFO - Username is Entered
+2019-11-19 20:31:39,557 - consumerPayments -INFO - Password is Entered
+2019-11-19 20:31:50,562 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 20:31:53,594 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 20:31:57,330 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 20:31:57,408 - consumerPayments -INFO - Search Data is entered
+2019-11-19 20:32:02,854 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 20:32:02,905 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 20:32:15,751 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 20:32:17,439 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 20:32:40,802 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 20:33:17,913 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:33:18,000 - consumerPayments -INFO - Username is Entered
+2019-11-19 20:33:18,062 - consumerPayments -INFO - Password is Entered
+2019-11-19 20:33:29,206 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 20:33:32,210 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 20:33:35,230 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 20:33:35,308 - consumerPayments -INFO - Search Data is entered
+2019-11-19 20:33:39,833 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 20:33:39,878 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 20:33:56,001 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 20:33:58,091 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 20:34:16,595 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:34:16,685 - consumerPayments -INFO - Username is Entered
+2019-11-19 20:34:16,749 - consumerPayments -INFO - Password is Entered
+2019-11-19 20:34:21,165 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 20:34:24,169 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 20:34:25,700 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 20:34:25,773 - consumerPayments -INFO - Search Data is entered
+2019-11-19 20:34:27,547 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 20:34:27,596 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 20:34:31,356 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 20:34:33,440 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 20:35:06,141 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 20:35:13,145 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 20:35:13,502 - consumerPayments -INFO - Card Number is entered
+2019-11-19 20:35:13,639 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 20:35:14,118 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 20:35:14,255 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 20:35:14,345 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 20:35:25,043 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 20:35:28,108 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 20:35:28,109 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 20:35:47,112 - consumerPayments -INFO - URL is Entered
+2019-11-19 20:35:47,193 - consumerPayments -INFO - Username is Entered
+2019-11-19 20:35:47,257 - consumerPayments -INFO - Password is Entered
+2019-11-19 20:35:53,817 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 20:35:56,818 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 20:36:01,666 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 20:36:01,745 - consumerPayments -INFO - Search Data is entered
+2019-11-19 20:36:04,662 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 20:36:04,713 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 20:36:08,467 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 20:36:10,590 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 20:36:24,158 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 20:36:31,446 - consumerPayments -INFO - Card Number is entered
+2019-11-19 20:36:31,577 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 20:36:31,647 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 20:36:31,804 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 20:36:31,909 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 20:36:39,667 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 20:36:42,739 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 20:36:42,739 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 23:08:35,750 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:08:35,977 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:08:36,045 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:08:40,975 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:08:43,977 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:08:45,652 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:08:45,738 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:08:48,608 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:08:48,664 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:08:54,449 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:08:56,102 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:09:02,745 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:09:12,767 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-19 23:09:51,080 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:09:56,082 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:09:56,139 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:10:02,784 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:10:05,789 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:10:07,480 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:10:07,572 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:10:09,719 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:10:09,771 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:10:14,522 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:10:16,613 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:10:37,372 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:10:48,234 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:10:48,359 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:10:48,421 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:10:48,556 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:10:48,649 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:10:56,643 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:11:08,184 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:11:08,266 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:11:08,370 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:11:12,305 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:11:15,309 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:11:16,886 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:11:16,961 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:11:18,737 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:11:18,791 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:11:24,668 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:11:26,769 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:11:44,561 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:11:51,563 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 23:11:51,785 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:11:51,922 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:11:52,400 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:11:52,532 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:11:52,627 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:12:01,466 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:12:04,526 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 23:12:04,526 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 23:12:23,782 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:12:23,879 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:12:23,944 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:12:27,996 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:12:31,001 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:12:32,560 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:12:32,652 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:12:34,852 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:12:34,909 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:12:38,843 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:12:40,922 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:13:01,762 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:13:09,037 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:13:09,156 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:13:09,222 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:13:09,355 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:13:09,444 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:13:20,343 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:13:23,401 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 23:13:23,402 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-19 23:18:30,467 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:18:30,587 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:18:30,650 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:18:35,059 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:18:38,066 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:18:39,770 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:18:39,847 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:18:41,824 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:18:41,876 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:18:45,548 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:18:47,197 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:19:26,538 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:19:36,543 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-19 23:19:36,680 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:19:36,828 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:19:36,890 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:19:37,036 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:19:37,132 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:19:46,969 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:19:50,030 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 23:19:50,031 - consumerPayments -INFO - End of Payment Scenario
+2019-11-19 23:20:11,957 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:20:12,043 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:20:12,110 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:20:16,060 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:20:19,066 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:20:20,536 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:20:20,616 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:20:22,484 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:20:22,526 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:20:29,337 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:20:31,412 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:23:35,530 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:23:35,650 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:23:35,719 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:23:54,495 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:23:57,503 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:24:11,867 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:24:11,940 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:24:13,942 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:24:14,008 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:24:22,776 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:24:24,883 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:24:47,196 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:24:57,709 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 23:24:57,937 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:24:58,065 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:24:58,125 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:24:58,257 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:24:58,351 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:25:21,386 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:35:02,009 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:35:02,119 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:35:02,189 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:35:08,450 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:35:11,451 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:35:12,926 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:35:13,009 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:35:14,858 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:35:14,906 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:35:22,578 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:35:24,229 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:35:44,195 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:35:44,283 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:35:44,347 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:35:51,513 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:35:54,516 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:35:56,067 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:35:56,160 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:35:58,253 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:35:58,296 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:36:04,805 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:36:06,883 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:36:40,451 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:36:50,959 - consumerPayments -INFO - selecting Cardtype
+2019-11-19 23:37:04,392 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:37:04,477 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:37:04,548 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:37:12,698 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:37:15,698 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:37:17,373 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:37:17,462 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:37:20,887 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:37:20,938 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:37:26,891 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:37:28,969 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:37:40,953 - consumerPayments -INFO - URL is Entered
+2019-11-19 23:37:41,037 - consumerPayments -INFO - Username is Entered
+2019-11-19 23:37:41,099 - consumerPayments -INFO - Password is Entered
+2019-11-19 23:37:45,172 - consumerPayments -INFO - Login is Sucessful
+2019-11-19 23:37:48,176 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-19 23:37:49,628 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-19 23:37:49,710 - consumerPayments -INFO - Search Data is entered
+2019-11-19 23:37:51,487 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-19 23:37:51,531 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-19 23:37:57,204 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-19 23:37:59,294 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-19 23:38:20,502 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-19 23:38:27,807 - consumerPayments -INFO - Card Number is entered
+2019-11-19 23:38:27,935 - consumerPayments -INFO - Expiration Year is selected
+2019-11-19 23:38:28,005 - consumerPayments -INFO - CVV Value is entered
+2019-11-19 23:38:28,152 - consumerPayments -INFO - Address Line2 is entered
+2019-11-19 23:38:28,242 - consumerPayments -INFO - Phone Number is entered
+2019-11-19 23:38:36,193 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-19 23:38:39,253 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-19 23:38:39,253 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 13:27:39,048 - consumerPayments -INFO - URL is Entered
+2019-11-23 13:27:39,297 - consumerPayments -INFO - Username is Entered
+2019-11-23 13:27:39,363 - consumerPayments -INFO - Password is Entered
+2019-11-23 13:27:44,894 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 13:27:47,939 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 13:27:49,336 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 13:27:49,425 - consumerPayments -INFO - Search Data is entered
+2019-11-23 13:27:55,585 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 13:27:55,638 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 13:28:01,214 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 13:28:02,857 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 13:29:03,511 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 13:29:13,548 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-23 13:29:13,689 - consumerPayments -INFO - Card Number is entered
+2019-11-23 13:29:13,910 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 13:29:13,967 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 13:29:14,117 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 13:29:14,222 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 13:29:20,569 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 13:29:23,628 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 13:29:23,629 - consumerPayments -INFO - End of Payment Scenario
+2019-11-23 13:29:37,786 - consumerPayments -INFO - URL is Entered
+2019-11-23 13:29:37,879 - consumerPayments -INFO - Username is Entered
+2019-11-23 13:29:37,966 - consumerPayments -INFO - Password is Entered
+2019-11-23 13:29:43,461 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 13:29:46,466 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 13:29:47,893 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 13:29:47,980 - consumerPayments -INFO - Search Data is entered
+2019-11-23 13:29:49,620 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 13:29:49,671 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 13:29:54,682 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 13:29:56,793 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 13:30:22,335 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 13:30:32,876 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 13:30:33,106 - consumerPayments -INFO - Card Number is entered
+2019-11-23 13:30:33,229 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 13:30:33,298 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 13:30:33,435 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 13:30:33,540 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 13:30:40,493 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 13:30:49,933 - consumerPayments -INFO - URL is Entered
+2019-11-23 13:30:50,013 - consumerPayments -INFO - Username is Entered
+2019-11-23 13:30:50,067 - consumerPayments -INFO - Password is Entered
+2019-11-23 13:30:59,686 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 13:31:02,692 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 13:31:04,096 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 13:31:04,184 - consumerPayments -INFO - Search Data is entered
+2019-11-23 13:31:05,941 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 13:31:06,001 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 13:31:10,937 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 13:31:13,042 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 13:31:26,467 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 13:31:33,472 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 13:31:33,702 - consumerPayments -INFO - Card Number is entered
+2019-11-23 13:31:33,833 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 13:31:34,318 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 13:31:34,443 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 13:31:34,543 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 13:31:42,311 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 13:31:45,371 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 13:31:45,372 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 13:32:02,298 - consumerPayments -INFO - URL is Entered
+2019-11-23 13:32:02,386 - consumerPayments -INFO - Username is Entered
+2019-11-23 13:32:02,472 - consumerPayments -INFO - Password is Entered
+2019-11-23 13:32:09,138 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 13:32:12,139 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 13:32:13,484 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 13:32:13,564 - consumerPayments -INFO - Search Data is entered
+2019-11-23 13:32:15,282 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 13:32:15,333 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 13:32:18,226 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 13:32:20,336 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 13:32:37,729 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 13:32:45,008 - consumerPayments -INFO - Card Number is entered
+2019-11-23 13:32:45,134 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 13:32:45,203 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 13:32:45,344 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 13:32:45,436 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 13:32:53,477 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 13:32:56,535 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 13:32:56,535 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 22:27:06,259 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:27:06,514 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:27:06,579 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:27:10,334 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:27:13,338 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:27:14,835 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:27:14,914 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:27:17,093 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:27:17,143 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:27:23,176 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:27:24,845 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:28:21,040 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:28:31,044 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-23 22:28:31,181 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:28:31,386 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:28:31,446 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:28:31,582 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:28:31,684 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:28:37,899 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:28:40,971 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:28:40,971 - consumerPayments -INFO - End of Payment Scenario
+2019-11-23 22:29:02,263 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:29:02,354 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:29:02,416 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:29:06,356 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:29:09,357 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:29:10,957 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:29:11,068 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:29:13,012 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:29:13,067 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:29:18,945 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:29:21,063 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:29:37,426 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:29:47,929 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 22:29:48,269 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:29:48,442 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:29:48,535 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:29:48,752 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:29:48,900 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:29:56,944 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:30:25,613 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:30:25,702 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:30:25,771 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:30:43,318 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:30:46,322 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:30:48,430 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:30:48,561 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:30:51,103 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:30:51,167 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:30:59,398 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:31:01,537 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:31:20,673 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:31:27,676 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 22:31:27,944 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:31:28,071 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:31:28,560 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:31:28,697 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:31:28,799 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:31:35,828 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:31:38,893 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:31:38,894 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 22:32:04,425 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:32:04,518 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:32:04,585 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:32:14,544 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:32:17,555 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:32:19,693 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:32:19,769 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:32:21,620 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:32:21,667 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:32:28,191 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:32:30,327 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:32:48,654 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:32:55,956 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:32:56,082 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:32:56,149 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:32:56,297 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:32:56,401 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:33:03,128 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:33:06,203 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:33:06,632 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 22:50:46,869 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:50:47,123 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:50:47,192 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:50:53,394 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:50:56,430 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:50:57,897 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:50:57,982 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:50:59,961 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:51:00,009 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:51:05,784 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:51:07,450 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:51:26,517 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:51:36,536 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-23 22:51:36,677 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:51:36,979 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:51:37,040 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:51:37,162 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:51:37,253 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:51:45,010 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:51:48,070 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:51:48,070 - consumerPayments -INFO - End of Payment Scenario
+2019-11-23 22:52:08,356 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:52:08,439 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:52:08,510 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:52:15,350 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:52:18,356 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:52:19,919 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:52:19,999 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:52:22,320 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:52:22,366 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:52:25,859 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:52:27,970 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:52:46,077 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:52:56,586 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 22:52:56,806 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:52:56,931 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:52:56,989 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:52:57,116 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:52:57,205 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:53:05,626 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:53:08,685 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:53:08,685 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 22:53:24,498 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:53:24,592 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:53:24,652 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:53:31,427 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:53:34,431 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:53:36,006 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:53:36,084 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:53:38,057 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:53:38,144 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:53:44,708 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:53:46,797 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:54:15,020 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:54:22,024 - consumerPayments -INFO - selecting Cardtype
+2019-11-23 22:54:22,252 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:54:22,370 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:54:22,850 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:54:22,978 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:54:23,066 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:54:31,796 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:54:34,855 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:54:34,855 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-23 22:54:54,960 - consumerPayments -INFO - URL is Entered
+2019-11-23 22:54:55,049 - consumerPayments -INFO - Username is Entered
+2019-11-23 22:54:55,109 - consumerPayments -INFO - Password is Entered
+2019-11-23 22:55:00,945 - consumerPayments -INFO - Login is Sucessful
+2019-11-23 22:55:03,950 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-23 22:55:05,400 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-23 22:55:05,481 - consumerPayments -INFO - Search Data is entered
+2019-11-23 22:55:07,206 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-23 22:55:07,269 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-23 22:55:10,727 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-23 22:55:12,803 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-23 22:55:27,636 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-23 22:55:34,917 - consumerPayments -INFO - Card Number is entered
+2019-11-23 22:55:35,043 - consumerPayments -INFO - Expiration Year is selected
+2019-11-23 22:55:35,108 - consumerPayments -INFO - CVV Value is entered
+2019-11-23 22:55:35,243 - consumerPayments -INFO - Address Line2 is entered
+2019-11-23 22:55:35,335 - consumerPayments -INFO - Phone Number is entered
+2019-11-23 22:55:42,809 - consumerPayments -INFO - Review Payemnt Button is clicked
+2019-11-23 22:55:45,876 - consumerPayments -INFO - Submit Payemnt button is clicked
+2019-11-23 22:55:45,876 - consumerPayments -INFO - End of Master Card Payment Scenario
+2019-11-24 03:01:24,875 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:28:12,872 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:28:13,184 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:28:13,252 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:28:19,761 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:28:22,902 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:28:33,361 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:28:33,517 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:28:38,596 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:28:48,739 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:28:48,846 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:28:48,901 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:28:52,802 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:28:55,855 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:28:57,447 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:28:57,540 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:29:00,005 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:29:00,061 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:29:03,951 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:29:06,213 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:30:24,785 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:30:35,539 - consumerPayments -INFO - selecting Cardtype
+2019-11-24 03:30:42,819 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:30:42,930 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:30:42,994 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:30:46,715 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:30:49,784 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:30:51,413 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:30:51,492 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:30:53,371 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:30:53,427 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:30:58,788 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:31:01,079 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:32:18,010 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:32:25,137 - consumerPayments -INFO - selecting Cardtype
+2019-11-24 03:32:35,372 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:32:35,482 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:32:35,556 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:32:39,352 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:32:42,413 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:32:43,907 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:32:43,980 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:32:45,807 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:32:45,853 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:32:51,251 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:32:53,481 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:34:49,250 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:45:02,925 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:45:03,101 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:45:03,167 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:45:09,906 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:45:12,979 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:45:14,856 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:45:14,937 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:45:16,756 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:45:16,823 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:45:20,213 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:45:22,001 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:47:05,516 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:47:17,660 - consumerPayments -INFO - Entering Electronic payment page
+2019-11-24 03:47:27,751 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:47:27,863 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:47:27,927 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:47:32,051 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:47:35,122 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:47:36,686 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:47:36,768 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:47:38,530 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:47:38,580 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:47:44,160 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:47:46,496 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:50:41,563 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:50:54,258 - consumerPayments -INFO - selecting Cardtype
+2019-11-24 03:51:02,123 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:51:02,225 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:51:02,290 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:51:08,999 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:51:12,073 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:51:13,674 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:51:13,755 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:51:15,518 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:51:15,565 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:51:19,445 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:51:21,752 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:51:44,452 - consumerPayments -INFO - Redirects to Electronic Payment Page
+2019-11-24 03:51:54,523 - consumerPayments -INFO - selecting Cardtype
+2019-11-24 03:52:04,978 - consumerPayments -INFO - URL is Entered
+2019-11-24 03:52:05,084 - consumerPayments -INFO - Username is Entered
+2019-11-24 03:52:05,149 - consumerPayments -INFO - Password is Entered
+2019-11-24 03:52:09,158 - consumerPayments -INFO - Login is Sucessful
+2019-11-24 03:52:12,228 - consumerPayments -INFO - Accept Payment Search Test
+2019-11-24 03:52:13,779 - consumerPayments -INFO - Accept Payment Link is Clicked
+2019-11-24 03:52:13,853 - consumerPayments -INFO - Search Data is entered
+2019-11-24 03:52:15,593 - consumerPayments -INFO - AcceptPayment Search Button is clicked
+2019-11-24 03:52:15,665 - consumerPayments -INFO - Selected an Document from Search Results
+2019-11-24 03:52:19,407 - consumerPayments -INFO - Accept Payment Search Link is clicked
+2019-11-24 03:52:21,636 - consumerPayments -INFO - Payment Amount is Entered
+2019-11-24 03:53:01,104 - consumerPayments -INFO - Redirects to Electronic Payment Page
